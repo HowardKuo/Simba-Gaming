@@ -1,0 +1,46 @@
+﻿Definition
+Seller refers to the party to whom the order for purchase has been given.
+Client refers to the person or organization placing the order.
+Goods or services refers to the product for which the seller has placed an order with the client.
+
+Application
+The terms and conditions are valid for any goods or services provided by the Seller to the Client.
+
+Pricing
+The pricing, quantity of goods, and time of delivery mentioned in the articles are not binding on the Seller, but the Seller will make all efforts to fulfill the stated estimates.
+
+Payment
+All invoices of the Seller shall be paid by the Client within fifteen (15) days of the date of invoice unless otherwise agreed in writing by the Seller. In the event of late payment, the Seller may charge interest on the amount outstanding before and after judgment. Alternatively, for invoices unpaid 30 days after the due date, the Seller may impose a surcharge equal to 2.5% of the outstanding amount.
+If any amount of the invoice is disputed by the Client, the Client shall inform the Seller of the grounds for such dispute within seven days of delivery of the goods and shall pay to the Seller the value of the invoice less the disputed amount in accordance with these payment terms.
+Where the Seller requires payment of a deposit, the Client acknowledges that the deposit is not returnable.
+All fees are exclusive of value added taxes which will be added to invoices where appropriate.
+The Seller reserves the right to increase a quoted fee in the event that the client requests a variation to the work agreed.
+
+Delivery
+Delivery by the Seller will be deemed to have taken place when the materials are handed to the custody of the Client at his premises or to a deputed messenger or courier when posted. The Seller will be entitled to charge the Client for any expenses of delivery other than normal postage charges.
+If an order is, at the Client's request, sent electronically, the time recorded on the sending equipment shall be deemed the time of delivery, system delays notwithstanding. (nb - electronic dispatch can be provided only on request and at the Client's risk. The Seller reserves the right to substitute conventional delivery methods without notice or penalty should electronic dispatch prove inconvenient.)
+Cancellation
+In view of the nature of the service, any order - once confirmed by the Company - is not cancellable. Cancellation of the Order by the Client will only be accepted on condition that any costs, charges and expenses already incurred, including any charges that will be levied by the list-owner on account of his expenses, work or cancellation conditions will be reimbursed to the Company forthwith.
+
+Notice
+All written notices to be served on or given to the client shall be sent or delivered to the client's principle place of business and shall be treated as having been given upon receipt.
+Loss or Damage to Goods
+The Company will take all reasonable steps to ensure the protection from loss, damage or destruction of the services or materials it supplies to the Client (or which may be received from the Client).
+Usage of Goods or Services
+Unless agreed and indicated in writing by the Company, the Client (and their clients) shall be entitled to use the services and materials provided (i.e. the samples) only for the purpose of conducting market research to be carried out in conformity with the recognized ESOMAR/MRS Code of Conduct of the market research industry. The Client shall not otherwise be entitled to store, pass on (whether to his/her client or other person) or use these services and materials.
+The Client shall bear responsibility for ensuring that all usage of information contained within any samples is in accordance with and does not contravene any Data Protection or other laws, regulations or other trade customs and practices. The Company bears no liability for any omissions or faults in these respects.
+
+Confidentiality
+Both parties shall maintain strict confidence and shall not disclose to any third party any information or material relating to the other or the other's business which comes into that party's possession and shall not use such information and material. This provision shall not, however, apply to information or material which is or becomes public knowledge other than by breach by a party of this clause.
+Employment of Personnel
+Subject to the prior written consent of the Company the Client shall not induce to employ, whether as an employee, agent, partner or consultant, any employee of the Company directly associated with delivery of the Goods.
+
+Warranty
+The Company warrants that it has the right to provide the Goods but otherwise the Goods are provided on an "as-is" basis without warranty of any kind, express or implied, oral or written including, without limitation, the implied conditions of merchantable quality, fitness for purpose and description, all of which are specifically and unreservedly excluded. In particular, but without limitation, no warranty is given that the Goods are suitable for the purposes intended by the Client.
+The Company warrants that the Goods will be supplied using reasonable care and skill. The Company does not warrant that the Goods supplied are error-free, accurate or complete.
+Both parties warrant that they are registered under the Data Protection Act in respect of the collection, processing and use of the Goods. Each party will comply with the Act including but not limited to its obligations in respect of any personal data which it may supply to or receive from the other party.
+
+Limitation of Liability
+The Company shall not be liable for any claim arising out of the performance, non-performance, delay in delivery of or defect in the Goods nor for any special, indirect, economic or consequential loss or damage howsoever arising or howsoever caused (including loss of profit or loss of revenue) whether from negligence or otherwise in connection with the supply, functioning or use of the Goods. Any liability of the Company shall in any event be limited to the license fees paid by the Client in the year in which the event of default arises.
+Nothing herein shall limit either party's liability for death or personal injury arising from the proven negligence by itself or its employees or agents.
+The Client shall fully indemnify the Company against any liability to third parties arising out of the Client's use of the Goods.
